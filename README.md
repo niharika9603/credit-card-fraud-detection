@@ -14,7 +14,7 @@ Exploratory Data Analysis (EDA): 📊 Visualizes key patterns and relationships 
 
 Modeling: 🤖 Implements machine learning models such as Logistic Regression, Decision Trees, and Random Forest to detect fraud.
 
-Model Evaluation: 🏆 Evaluates models using accuracy, precision, recall, and F1-score to ensure optimal fraud detection performance.
+Model Evaluation: 🏆 Evaluates models using accuracy to ensure optimal fraud detection performance.
 
 ⚙️ Requirements
 
